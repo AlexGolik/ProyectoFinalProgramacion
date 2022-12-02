@@ -1,7 +1,7 @@
 //============================================================================
 // Name        : Index.cpp
 // Author      : Alex,Daniel,Leonardo
-// Version     : 2.0
+// Version     : 1.0
 // Copyright   : Your copyright notice
 // Description : Proyecto Final C++
 //============================================================================
