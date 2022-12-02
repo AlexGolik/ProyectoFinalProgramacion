@@ -7,6 +7,6 @@
   
 *** 
 Desarrollado por: 
-*Daniel leones
+*Daniel Leones
 *Leonardo Gordillo
 *Kevin Vasquez
